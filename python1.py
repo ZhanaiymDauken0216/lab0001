@@ -1,3 +1,4 @@
+
 n = int(input("Введите число:"))
 suma=0
 mult = 1
